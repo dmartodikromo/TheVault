@@ -1,1 +1,3 @@
 # TheVault
+
+## Table of Contents
