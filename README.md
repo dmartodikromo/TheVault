@@ -20,12 +20,17 @@ Welcome to The Vault Vault Hunter! Enjoy!
   - [Project-Gutenburg:](http://www.gutenberg.org/wiki/Main_Page) Project Gutenberg is an online library of free eBooks.
   - [Sci-Hub:](https://sci-hub.tw/) Public Access to research papers.
   - [Slader](https://www.slader.com/) A website that helps with school.
+  - [Z-Library](https://z-lib.org/) Z-Library. The world's largest ebook library.
+  - [Goalkicker](https://goalkicker.com/) Free IT books on different programming and markup languages
   
 
 ## Tools
 
 ### Web-Tools
   - [Proof-Reading:](https://www.paperrater.com/) Grammar and spelling, proofreading all browserbased.
+  - [Math-Graph:](https://www.desmos.com/) A website to learn mathematics.
+  - [Math-Solver:](https://www.mathway.com/Algebra) Solve your math problems.
+  
 ### Software
 ### Physical
 
