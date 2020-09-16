@@ -10,6 +10,7 @@
 
 ## Library
   - [Book-Finder](https://www.bookfinder.com/)
+  - [Google-Scholar](https://scholar.google.com/)
 
 ## Tools
 
