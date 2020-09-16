@@ -13,8 +13,6 @@ Welcome to The Vault Vault Hunter! Enjoy!
 
 ## Library
   - [Book-Finder:](https://www.bookfinder.com/) Find all kinds of books and compare prices from many different retailers.
-   <br>
-   <img src='images/bookfinder.png' width='200px'>
   - [Google-Scholar:](https://scholar.google.com/) Google Scholar provides info on different topics from credible sources.
   - [Library-Genisis:](http://libgen.rs/) Download free books in different formats PDF, EBUP, Etc.
   - [Outline:](https://outline.com/) Read online articles
