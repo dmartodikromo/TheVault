@@ -1,3 +1,27 @@
 h1 {
     text-align: center;
 }
+.header {
+    grid-area: header;
+}
+.menu {
+    grid-area: menu;
+}
+.main {
+    grid-area: main;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas: 
+    'header header header header'
+    'menu main main main'
+    'menu main main main';
+    grid-gap: 5px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.grid-container > div {
+    background-color: antiquewhite;
+    
+}
