@@ -32,5 +32,9 @@ Welcome to The Vault Vault Hunter! Enjoy!
   - [Math-Solver:](https://www.mathway.com/Algebra) Solve your math problems.
   
 ### Software
+  - [HWID:](https://www.hwinfo.com/) In-depth Hardware Information, Real-Time System Monitoring, Reporting & more.
+  - [WinDirStat:](https://windirstat.net/) Windows Directory Statistics cleanup tool.
+  - [Rufus:](https://rufus.ie/) Rufus is a small application that creates bootable USB drives.
+
 ### Physical
 
