@@ -8,6 +8,11 @@ Welcome to The Vault Vault Hunter! Enjoy!
     - [Web-Tools](#web-tools)
     - [Software](#software)
     - [Physical](#physical)
+  - [IT](#it)
+    - [Resources](#resources)
+      - [Websites](#websites)
+      - [Tutorials](#tutorials)
+    - [Software](#it-software)
   
 
 
@@ -22,6 +27,7 @@ Welcome to The Vault Vault Hunter! Enjoy!
   - [Slader:](https://www.slader.com/) A website that helps with school.
   - [Z-Library:](https://z-lib.org/) Z-Library. The world's largest ebook library.
   - [Goalkicker:](https://goalkicker.com/) Free IT books on different programming and markup languages
+  - [The-Linux_Commandline](http://linuxcommand.org/) Get a free copy of The Linux Commandline book.
   
 
 ## Tools
@@ -32,9 +38,16 @@ Welcome to The Vault Vault Hunter! Enjoy!
   - [Math-Solver:](https://www.mathway.com/Algebra) Solve your math problems.
   
 ### Software
-  - [HWID:](https://www.hwinfo.com/) In-depth Hardware Information, Real-Time System Monitoring, Reporting & more.
-  - [WinDirStat:](https://windirstat.net/) Windows Directory Statistics cleanup tool.
-  - [Rufus:](https://rufus.ie/) Rufus is a small application that creates bootable USB drives.
-
+  - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) Freeware application that gathers the information of your system components.
 ### Physical
+
+## IT
+
+### Resources
+#### Websites
+#### Tutorials
+
+### IT-Software
+
+
 
