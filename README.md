@@ -39,6 +39,9 @@ Welcome to The Vault Vault Hunter! Enjoy!
   
 ### Software
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) Freeware application that gathers the information of your system components.
+  - [HWINFO](https://www.hwinfo.com/) Hardware Info is a powerful system information utility designed especially for detection of hardware.
+  - [WinDirStat](https://windirstat.net) WinDirStat is a free and open-source graphical disk usage analyzer for Microsoft Windows.
+  
 ### Physical
 
 ## IT
