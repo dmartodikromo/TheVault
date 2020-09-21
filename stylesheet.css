@@ -4,8 +4,10 @@
   .content {
     grid-area: content;
   }
-  .main-nav {
+  .main-nav  {
     grid-area: nav;
+    
+
   }
   .side {
     grid-area: sidebar;
@@ -35,10 +37,24 @@
         "sidebar content"
         "sidebar      footer";
     }
-    nav ul {
+    nav ul{
       display: flex;
       justify-content: space-between;
-    }
+      border: none;
+
+     }
+     nav button {
+         display: flex;
+         width: 100%;
+         border: none;
+         background-color: lightgrey;
+         font-size: 15px;
+         justify-content: space-between;
+
+
+     }
+    
+     
   }
   @media (min-width: 700px) {
     .wrapper {
@@ -54,6 +70,13 @@
      }
      li {
          margin: 2px;
-         background-color: beige;
+         b
+         nav button {
+            display: flex;
+            width: 100%;
+            border: none;
+            background-color: lightgrey;
+            font-size: 15px;
+            justify-content: space-between;ackground-color: beige;
      }
   }
