@@ -12,7 +12,7 @@ Welcome to The Vault Vault Hunter! Enjoy!
     - [Resources](#resources)
       - [Websites](#websites)
       - [Tutorials](#tutorials)
-    - [Software](#it-software)
+    - [IT-Software](#it-software)
   
 
 
@@ -36,11 +36,15 @@ Welcome to The Vault Vault Hunter! Enjoy!
   - [Proof-Reading](https://www.paperrater.com/) Grammar and spelling, proofreading all browserbased.
   - [Math-Graph](https://www.desmos.com/) A website to learn mathematics.
   - [Math-Solver](https://www.mathway.com/Algebra) Solve your math problems.
+  - [PC-Part-Picker](https://pcpartpicker.com/) Want to build a PC? Want to see the prices on computer hardware? This is your one stop website.
+  - [Premium-Builds](https://premiumbuilds.com/) Buying guide and recommendations to build your own PC.
+  - [Code-My-UI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
   
 ### Software
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) Freeware application that gathers the information of your system components.
   - [HWINFO](https://www.hwinfo.com/) Hardware Info is a powerful system information utility designed especially for detection of hardware.
   - [WinDirStat](https://windirstat.net) WinDirStat is a free and open-source graphical disk usage analyzer for Microsoft Windows.
+  - [Ninite](https://ninite.com/) Install and update all of your software at once.
   
 ### Physical
 
