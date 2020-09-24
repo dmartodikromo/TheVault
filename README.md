@@ -62,6 +62,7 @@ Welcome to The Vault Vault Hunter! Enjoy!
   - [Scrimba](https://scrimba.com/) Scrimba is a community of developers sharing knowledge through interactive coding screencasts.
   - [Stack-Overflow](https://stackoverflow.com/) Largest community for developers. Every developer's best friend.
   - [Github](https://github.com/) Build software and store your code here. Contribute to open-source applications as well.
+  - [Freelearninglist](hhttps://freelearninglist.org/) Free education resource collection.
   
 #### Tutorials
   - ["Zero To Hero Pentesting" by The Cyber Mentor](https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
