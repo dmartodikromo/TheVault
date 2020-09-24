@@ -39,6 +39,8 @@ Welcome to The Vault Vault Hunter! Enjoy!
   - [PC-Part-Picker](https://pcpartpicker.com/) Want to build a PC? Want to see the prices on computer hardware? This is your one stop website.
   - [Premium-Builds](https://premiumbuilds.com/) Buying guide and recommendations to build your own PC.
   - [Code-My-UI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
+  - [Forvo](https://forvo.com/) Pronounciation of words by native speakers.
+
   
 ### Software
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) Freeware application that gathers the information of your system components.
