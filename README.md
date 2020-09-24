@@ -33,6 +33,7 @@ Welcome to The Vault Vault Hunter! Enjoy!
 ## Tools
 
 ### Web-Tools
+  - [Blacklight](https://themarkup.org/blacklight/) Blacklight analysis cookies and trackers of a website.
   - [Proof-Reading](https://www.paperrater.com/) Grammar and spelling, proofreading all browserbased.
   - [Math-Graph](https://www.desmos.com/) A website to learn mathematics.
   - [Math-Solver](https://www.mathway.com/Algebra) Solve your math problems.
