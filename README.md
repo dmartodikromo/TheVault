@@ -75,8 +75,10 @@ Welcome to The Vault Vault Hunter! Enjoy!
 |[Freelearninglist](https://freelearninglist.org/)| Free education resource collection.|
   
 #### Tutorials
-  - ["Zero To Hero Pentesting" by The Cyber Mentor](https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
-  - 
+|Video                                     |Description                               |
+|------------------------------------------|------------------------------------------|
+|["Zero To Hero Pentesting" by The Cyber Mentor]|(https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)|
+
 
 ### IT-Software
 
