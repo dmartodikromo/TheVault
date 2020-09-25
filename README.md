@@ -33,15 +33,17 @@ Welcome to The Vault Vault Hunter! Enjoy!
 ## Tools
 
 ### Web-Tools
-  - [Blacklight](https://themarkup.org/blacklight/) Blacklight analysis cookies and trackers of a website.
-  - [Proof-Reading](https://www.paperrater.com/) Grammar and spelling, proofreading all browserbased.
-  - [Math-Graph](https://www.desmos.com/) A website to learn mathematics.
-  - [Math-Solver](https://www.mathway.com/Algebra) Solve your math problems.
-  - [PC-Part-Picker](https://pcpartpicker.com/) Want to build a PC? Want to see the prices on computer hardware? This is your one stop website.
-  - [Premium-Builds](https://premiumbuilds.com/) Buying guide and recommendations to build your own PC.
-  - [Code-My-UI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
-  - [Forvo](https://forvo.com/) Pronounciation of words by native speakers.
-  - [Meme generator](https://www.drmemes.com/) Watermark free templates baby
+|Website                                   |Description                               |
+|------------------------------------------|------------------------------------------|
+|[Blacklight](https://themarkup.org/blacklight/)| Blacklight analysis cookies and trackers of a website.|
+|[Proof-Reading](https://www.paperrater.com/)| Grammar and spelling, proofreading all browserbased.|
+|[Math-Graph](https://www.desmos.com/)| A website to learn mathematics.|
+|[Math-Solver](https://www.mathway.com/Algebra)| Solve your math problems.|
+|[PC-Part-Picker](https://pcpartpicker.com/)| Want to build a PC? Want to see the prices on computer hardware? This is your one stop website.|
+|[Premium-Builds](https://premiumbuilds.com/)| Buying guide and recommendations to build your own PC.|
+|[Code-My-UI](https://codemyui.com/)| Web Design & UI Inspiration with Code Snippets.|
+|[Forvo](https://forvo.com/)| Pronounciation of words by native speakers.|
+|[Meme generator](https://www.drmemes.com/)| Watermark free templates baby.|
 
   
 ### Software
