@@ -77,7 +77,7 @@ Welcome to The Vault Vault Hunter! Enjoy!
 #### Tutorials
 |Video                                     |Description                               |
 |------------------------------------------|------------------------------------------|
-|["Zero To Hero Pentesting" by The Cyber Mentor]|(https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)|
+|["Zero To Hero Pentesting" by The Cyber Mentor](https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)||
 
 
 ### IT-Software
